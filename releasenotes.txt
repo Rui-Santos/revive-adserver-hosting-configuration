@@ -1,1 +1,2 @@
 v0.0.0 - 2 February 2014 - project created
+v0.0.1 - 19 March 2014 - added main.example.conf.php as starting point for project
