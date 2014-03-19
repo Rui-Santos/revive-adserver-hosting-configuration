@@ -1,3 +1,15 @@
 Documentation for Revive Adserver hosting configuration
--------------------------------------------------------
+=======================================================
 
+Installation location
+---------------------
+The starting assumption is that we've installed the software on a virtual host
+of domain name example.com, on a sub domain called 'main', and in a folder named
+'base'. The resulting location therefore is main.example.com/base/
+
+The physical location of the installation for the purpose of this project is
+going to be /var/www/virtual/main.example.com/base/
+
+During the installation process, the Revive Adserver install wizard has created
+a configuration file called main.example.com.conf.php, which can be found in the
+'var' folder (/var/www/virtual/main.example.com/base/var/) on the server.
